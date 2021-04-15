@@ -1,4 +1,4 @@
-# shop1
+# Electronic application store
 
 A new Flutter project.
 
